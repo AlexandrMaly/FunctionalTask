@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+
+/out/production/functionalTask/Client/Client.class
+/out/production/functionalTask/Data/DataClient.class
+/out/production/functionalTask/Handler/HandlerClient.class
+/functionalTask.iml
+/out/production/functionalTask/Main.class
+/.idea/misc.xml
+/.idea/modules.xml
+/out/production/functionalTask/Output/Outputer.class
+/.idea/workspace.xml
